@@ -1,0 +1,4 @@
+Sitemap: https://georgemcintosh.com/sitemapindex.xml
+
+User-Agent: *
+Host: georgemcintosh.com
